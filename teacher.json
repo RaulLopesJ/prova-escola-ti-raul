@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "prova-escola-ti-raul",
+  "repo_url": "https://github.com/RaulLopesJ/prova-escola-ti-raul",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/RaulLopesJ/prova-escola-ti-raul/issues/1",
+  "gerado_em": "2026-10-08T01:56:10+00:00",
+  "fechada_em": "2026-10-08T01:55:47Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "RaulLopesJ",
+    "ra": "231417472",
+    "nome": "Raul Lopes Jorge"
+  },
+  "variante": {
+    "slug": "prova-escola-ti-raul",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 450,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8002,
+    "TOLERANCIA_MINUTOS": 10
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-08T00:37:00Z",
+    "ultimo_push": "2026-10-07T22:54:53-03:00"
+  },
+  "commits": {
+    "total": 9,
+    "autores": [
+      "RaulLopesJ"
+    ],
+    "primeiro": "2026-10-07T21:33:32-03:00",
+    "ultimo": "2026-10-07T22:54:53-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 9
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
