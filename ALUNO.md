@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: RaulLopesJ
+Nome: Raul Lopes Jorge
 
-RA: >>> PREENCHER <<<
+RA: 231417472
 
 Conta GitHub: @RaulLopesJ
 
